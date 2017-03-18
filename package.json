@@ -1,0 +1,24 @@
+    {
+      "name": "knn-ml-udesc",
+      "version": "1.0.0",
+      "description": "",
+      "main": "knn-sugerido.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lucassabreu/knn-ml-udesc.git"
+      },
+      "author": "Lucas dos Santos Abreu <lucas.s.abreu@gmail.com>",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://github.com/lucassabreu/knn-ml-udesc/issues"
+      },
+      "homepage": "https://github.com/lucassabreu/knn-ml-udesc#readme",
+  "dependencies": {
+    "euclidean-distance": "^1.0.0",
+    "fast-csv": "^2.4.0",
+    "random-seed": "^0.3.0"
+  }
+}
